@@ -7,7 +7,8 @@ module.exports = [
             {text: '快速开始', link: '/pages/793dcb/'},
             {
                 text: 'API接口', items: [
-                    {text: '文心一言', link: '/pages/8dfab5/'},
+                    {text: '随机毒鸡汤', link: '/pages/1703436986248761345/'},
+                    {text: '获取输入的名称', link: '/pages/1703713253414019074/'},
                 ]
             }
         ]

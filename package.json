@@ -1,9 +1,10 @@
 {
-  "name": "theme-vdoing-doc",
+  "name": "qi-api-doc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "docs:build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "updateTheme": "npm uninstall vuepress-theme-vdoing && rm -rf node_modules && npm i && npm i vuepress-theme-vdoing -D",
     "editFm": "node utils/editFrontmatter.js"

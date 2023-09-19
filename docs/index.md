@@ -40,12 +40,9 @@ postList: none
     <a href="https://www.cnblogs.com/qimu666/">
     <img alt="Blog" src="https://raster.shields.io/badge/Blog-柒木木-blue.svg"/>
     </a>
-
-[//]: # (  <a href="https://github.com/qimu666/qi-api-doc" target="_blank"><img src='https://github.com/qimu666/qi-api-doc' alt='GitHub stars' class="no-zoom"></a>)
-
-[//]: # (  <a href="https://github.com/qimu666/qi-api-doc" target="_blank"><img src='https://github.com/qimu666/qi-api-doc' alt='GitHub forks' class="no-zoom"></a>)
+  <a href="https://github.com/qimu666/qi-api-sdk" target="_blank"><img src='https://img.shields.io/github/forks/qimu666/qi-api-sdk' alt='GitHub forks' class="no-zoom"></a>
+  <a href="https://github.com/qimu666/qi-api-sdk" target="_blank"><img src='https://img.shields.io/github/stars/qimu666/qi-api-sdk' alt='GitHub stars' class="no-zoom"></a>
 </p>
-
 <br/>
 
 ## 当前最新版本
