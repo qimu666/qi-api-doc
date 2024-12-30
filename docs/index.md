@@ -66,7 +66,7 @@ postList: none
   <tbody>
     <tr>
      <td align="center" valign="middle">
-        <img src="https://img.qimuu.icu/typory/bcdh.jpg" class="no-zoom" style="width:220px;margin: 10px;">
+        <img src="https://img.qimuu.icu/typory/bcdhyq.png" class="no-zoom" style="width:220px;margin: 10px;">
         <p>编程学习圈子</p>
       </td>
       <td align="center" valign="middle">
